@@ -1,13 +1,8 @@
-Coloresque
+HexColor
 ==========
-
+This is a fork of [vim-coloresque](https://github.com/gorodinskiy/vim-coloresque), but _for hex and rgb values only_ (e.g. it won't automatically find and highlight colors like ``red`` or ``blue``).
 ***
 
-**Important!** If you experience any lags in css/html/less/sass files please update to latest version(0.9.5) of plugin.
-
-The issue [#13](https://github.com/gorodinskiy/vim-coloresque/issues/13) from 26.09.2013. Sorry for the inconvenience.
-
-***
 
 ![pic](https://raw.github.com/gorodinskiy/vim-coloresque/master/screen.png)
 
