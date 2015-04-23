@@ -6,7 +6,7 @@ This is a vim plugin that highlights hex and rgb color codes in css files etc. w
 Preview:   
 ![original](https://cloud.githubusercontent.com/assets/6726985/7173406/14a58e92-e432-11e4-84cc-0e6316960ddd.png)
 
-My changes:
+My changes:   
 ![my-changes](https://cloud.githubusercontent.com/assets/6726985/7173407/17b57250-e432-11e4-9376-9ba4f75a8e98.png)
 
 ###Overview
