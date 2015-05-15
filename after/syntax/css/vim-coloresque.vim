@@ -137,6 +137,10 @@ function! s:VimCssInit(update)
         call s:PreviewCSSColor(join(getline(1,'$'), "\n"))
     "endfor
 
+    :set isk-=-
+    :set isk-=#
+    :set isk-=.
+
 endfunction
 
 function! s:ProcessByLine(w)
